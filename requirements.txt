@@ -1,0 +1,5 @@
+milvus-haystack
+farm-haystack[inference, crawler]
+streamlit
+markdown
+python-dotenv
