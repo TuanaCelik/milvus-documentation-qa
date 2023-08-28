@@ -2,6 +2,8 @@
 
 This repo includes en example application that makes use of a Retrieval Augmented Generative architecture built with [Haystack](https://haystack.deepset.ai) to do search on the Milvus documentation.
 
+https://github.com/TuanaCelik/milvus-documentation-qa/assets/15802862/d7573c21-f473-42d0-8d38-25302009c1aa
+
 ## Install dependencies
 
 ```bash
