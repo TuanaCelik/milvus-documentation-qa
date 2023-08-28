@@ -12,7 +12,7 @@ set_initial_state()
 st.write("# Ask anything about Milvus")
 
 # Search bar
-question = st.text_input("Ask a question", value=st.session_state.question, max_chars=100, on_change=reset_results)
+question = st.text_input("Ask a question", max_chars=100, on_change=reset_results)
 
 run_pressed = st.button("Run")
 
